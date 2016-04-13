@@ -14,4 +14,5 @@ This repository is used to experiment with hooks.
 
 # Version History
 
-- Initial commit on local machine: initializes the .git/hooks/*.sample
+ - v0.1 **git commit**: Initial commit on local machine: initializes the .git/hooks/*.sample
+ - v0.2 **git commit**: Acitvate hook: prepare-commit-msg and look at the commit message.
